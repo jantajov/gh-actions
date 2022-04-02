@@ -20,4 +20,4 @@ jobs:
                 run: docker image ls
 
             -   name: Run docker image
-                run: docker run -t gh-actions
+                run: docker run gh-actions
